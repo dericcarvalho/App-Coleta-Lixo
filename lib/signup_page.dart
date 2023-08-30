@@ -364,9 +364,4 @@ class _SignUpPageState extends State<SignUpPage> {
   }
 
 //Funções a serem usadas no futuro
-  void _showInsufficientCredentialsAlert() {}
-
-  void _showInvalidCredentialsAlert() {}
-
-  void _showIncorrectPasswordAlert() {}
 }
